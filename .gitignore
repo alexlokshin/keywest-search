@@ -1,0 +1,11 @@
+vendor/
+src/src
+src/debug
+src/src.exe
+src/debug.exe
+src/vendor
+stuff.txt
+src/*-gram.txt
+src/*.dat
+src/*.bin
+src/src
