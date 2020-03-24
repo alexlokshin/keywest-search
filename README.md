@@ -3,7 +3,6 @@
 Provides access to insertion and retrieval of searchable data.
 
 - Attribute hierarchies are near real time
-- Current implementation is backed by Google Firebase
 - Product is represented by a colleciton of attribute name-value pairs
 - Attribute values can organize hierarchies
 
